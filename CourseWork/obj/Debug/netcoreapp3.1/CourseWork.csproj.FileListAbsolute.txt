@@ -1,0 +1,13 @@
+D:\Docs\CourseWork Asy\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.exe
+D:\Docs\CourseWork Asy\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.deps.json
+D:\Docs\CourseWork Asy\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.json
+D:\Docs\CourseWork Asy\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.dev.json
+D:\Docs\CourseWork Asy\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.dll
+D:\Docs\CourseWork Asy\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.pdb
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfoInputs.cache
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfo.cs
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.dll
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.pdb
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csprojAssemblyReference.cache
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CoreCompileInputs.cache
+D:\Docs\CourseWork Asy\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+DATA1 SEGMENT
+v1A DB 0C9h
+v1B DW 0DF23h
+v1C DD 0h
+vStr DB "Asm"
+bool equ 0h
+DATA1 ENDS
+
+CODE SEGMENT
+_label1:
+Cld
+jnz _label2
+mov eax, 12h
+mov edi, 2h
+inc GS:v1a[esi+eax*2]
+add v1A, 2h
+imul edi
+v1D DD 5h
+IF bool
+cmp v1D, eax
+add v1A, 2h
+ELSE
+cmp v1d[esp+edi*8],edx
+add v1A, 3h
+add v1a[ebx+ebp*2],77h
+ENDIF
+lea eax, v1B
+mov ecx, 7h
+mov edx, 16Bh
+and edx, ecx
+inc V1C
+cmp v1C, edx
+jnz _label1
+_label2:
+imul v1c[edx+ecx*2]
+CODE ENDS
+END

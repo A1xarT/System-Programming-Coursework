@@ -1,0 +1,30 @@
+
+
+					Segments table
+
+| Name of segment | Default bit depth | Current offset |
+|       data1     |       32 bit      |     0000000a       |
+|       code      |       32 bit      |     00000064       |
+ ------------------------------------------------------
+			Segment register table
+
+| 	Segment register 	|	 Assignment 	|
+| 	       cs		   	|		code		|
+| 	       ds		   	|		data1		|
+| 	       ss		   	|		nothing		|
+| 	       es		   	|		nothing		|
+| 	       gs		   	|		nothing		|
+| 	       fs		   	|		nothing		|
+ -------------------------------------------
+
+ 					User idindificators table
+
+|       Name      |    Type        |   Segment    | Offset      |
+|       v1a       | Data type 1    |   data1      |  00000000       |
+|       v1b       | Data type 2    |   data1      |  00000001       |
+|       v1c       | Data type 3    |   data1      |  00000003       |
+|       vstr      | Data type 1    |   data1      |  00000007       |
+|       bool      | Data type 4    |   data1      |  0000000a       |
+|       _label1   | label          |   code       |  00000000       |
+|       v1d       | Data type 3    |   code       |  00000022       |
+|       _label2   | label          |   code       |  0000005d       |
